@@ -1,6 +1,6 @@
 <p align="center">
 Hello my nig<br>
-<img src="https://count.getloli.com/@just-kett?name=just-kett&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=3333"/>
+<img src="https://count.getloli.com/@just-kett?name=just-kett&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=3333"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=touching%20grass" alt="Typing introduction" />
