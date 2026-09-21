@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=touching%20grass" alt="Typing introduction" />
+Hello my nig<br>
+<img src="https://count.getloli.com/@just-kett?name=just-kett&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=3333"/>
 </p>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=just-kett">
-    <img src="https://komarev.com/ghpvc/?username=just-kett&label=Profile%20views&color=00FFFF&style=flat-square" alt="just-kett's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=touching%20grass" alt="Typing introduction" />
 </p>
 
 
