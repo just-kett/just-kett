@@ -1,4 +1,3 @@
-<img width="1240" height="578" alt="image" src="https://github.com/user-attachments/assets/a183b2ce-1571-4331-94c0-6c0d1cad3a17" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=touching%20grass" alt="Typing introduction" />
 </p>
