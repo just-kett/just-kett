@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">just-kett</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="58" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">Arch Linux</tspan>
-<tspan x="390" y="86" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 8 months, 21 days</tspan>
+<tspan x="390" y="86" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................................... </tspan><tspan class="value" id="age_data">19 years, 8 months, 21 days</tspan>
 <tspan x="390" y="114" class="cc">. </tspan><tspan class="key">About</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Student at UET-VNU</tspan>
 <tspan x="390" y="142" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">VSCode 1.96.0</tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Python, C++</tspan>
