@@ -2,8 +2,8 @@ name: Update profile stats
 
 on:
   schedule:
-    - cron: '0 4 * * *'     # chạy mỗi ngày lúc 04:00 UTC
-  workflow_dispatch:         # cho phép bấm chạy tay
+    - cron: '0 4 * * *'    
+  workflow_dispatch:         
   push:
     branches: [main]
 
